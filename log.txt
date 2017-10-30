@@ -1,0 +1,13 @@
+LOG INFO 1509372304832 Notification{username='jan', email='jan@kowalski.pl', telephone='12345678', content='Cześć mam dla Ciebie super ofertę'}
+LOG INFO 1509372304961 Notification{username='kasia', email='kasia@kowalska.pl', telephone='2343454564', content='Nowa pralka już czeka'}
+LOG INFO 1509373396882 Notification{username='jan', email='jan@kowalski.pl', telephone='12345678', content='Cześć mam dla Ciebie super ofertę'}
+LOG INFO 1509373396888 Notification{username='kasia', email='kasia@kowalska.pl', telephone='2343454564', content='Nowa pralka już czeka'}
+LOG INFO 1509373580587 Notification{username='jacek', email='jacek@email.com', telephone='3344434343', content='to jest wiad'}
+LOG INFO 1509374058476 Notification{username='jan', email='janek@ee.pp', telephone='2344234', content='to jest wiad do wyslania'}
+LOG INFO 1509374058483 Notification{username='ewa', email='panek', telephone='333', content='gfggfgf'}
+LOG INFO 1509374516601 Notification{username='ALA', email='ALA@FFF.PPP', telephone='123', content='WIADOMOSC'}
+LOG INFO 1509374688975 Notification{username='JAN', email='FSDFDS@FD.F', telephone='3232', content='FSDFSD'}
+LOG INFO 1509374862558 Notification{username='F', email='FD', telephone='33', content='FFFF'}
+LOG INFO 1509374920779 Notification{username='AA', email='BB', telephone='33', content='CC'}
+LOG INFO 1509375454411 Notification{username='jan', email='jan@kowalski.pl', telephone='12345678', content='Cześć mam dla Ciebie super ofertę'}
+LOG INFO 1509375454418 Notification{username='kasia', email='kasia@kowalska.pl', telephone='2343454564', content='Nowa pralka już czeka'}
